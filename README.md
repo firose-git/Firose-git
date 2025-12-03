@@ -1,11 +1,12 @@
-# 💫 About Me:
-Pursuing MCA at AIMS Institutes, Peenya, Bengaluru. <br> 
+#💫 About Me
 
-Enthusiastic Full Stack Developer with internship experience in web
-development and a strong foundation in AI/ML. Skilled in building
-responsive web and mobile applications with hands-on experience in
-modern technologies. Quick learner,Vibe coder, team player, and passionate about
-solving real-world problems through code.
+MCA Graduate from AIMS Institutes, Peenya, Bengaluru.<br>
+Passionate Python Full-Stack Developer and AI/ML Developer with strong hands-on experience in building real-world applications.
+
+I have successfully completed training and internships in Web Development, Python Full-Stack, and Artificial Intelligence/Machine Learning, developing scalable, user-friendly, and industry-oriented projects.
+
+A quick learner, vibe coder, and team player who loves turning ideas into clean, functional, innovative solutions.
+Actively looking for opportunities to work, learn, and contribute in Python Development, AI/ML, and Full-Stack Web Development roles.
 
 
 ## 🌐 Socials:
